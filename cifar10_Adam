@@ -1,5 +1,6 @@
 /*
-
+Test loss: 0.49171521709
+Test accuracy: 0.8332
 */
 from __future__ import print_function
 import keras
